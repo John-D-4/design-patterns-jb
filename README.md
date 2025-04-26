@@ -2,35 +2,25 @@
 
 ## Lectures
 
-* **Week 1**
+* **Lecture 1**
   - [Introduction to Design Patterns]()
-* **Week 2**
+* **Lecture 2**
   - [Survey of the Field]()
-* **Week 3**
-  - [Structuring the Field Part I]()
-* **Week 4**
-  - [Structuring the Field Part II]()
-* **Week 5**
-  - [Heuristics Part I]()
-* **Week 6**
-  - [Heuristics Part II]()
-* **Week 7**
-  - [Heuristics Part III]()
-* **Week 8**
-  - [Positive Patterns Part I]()
-* **Week 9**
-  - No Class
-* **Week 10**
-  - [Antipatterns Part I]()
-* **Week 11**
-  - [Positive Patterns Part II]()
-* **Week 12**
-  - [Antipatterns Part II]()
-* **Week 13**
-  - [Design Pattern Governance Part I]()
-* **Week 14**
-  - [Design Pattern Governance Part II]()
-* **Week 15**
+* **Lecture 3**
+  - [Competency Questions]()
+* **Lecture 4**
+  - [Disambiguation]()
+* **Lecture 5**
+  - [Formal Disambiguation]()
+* **Lecture 6**
+  - [Basic Formal Ontology I]()
+* **Lecture 7**
+  - [Basic Formal Ontology II]()
+* **Lecture 8**
+  - [Systematic Disambiguation I]()
+* **Lecture 9**
+   - [Systematic Disambiguation II]()
+* **Lecture 10**
   - [Cut from the Whole Cloth]()
 
 ## Extra Content
